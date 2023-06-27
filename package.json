@@ -1,0 +1,12 @@
+{
+  "name": "void-invite",
+  "version": "1.0.0",
+  "description": "Void | Slash Invite Manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "larex",
+  "license": "MIT",
+  "engines": { "node": "16.x" }
+}
